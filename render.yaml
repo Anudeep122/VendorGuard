@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: vendorguard
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: LLM_PROVIDER
+        value: none            # set to anthropic or gemini and add the key below to enable AI drafting
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: STAGE_DELAY_MS
+        value: "600"
+      - key: DB_PATH
+        value: /app/data/vendorguard.db

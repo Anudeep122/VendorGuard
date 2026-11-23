@@ -1,0 +1,52 @@
+{
+  "company": {
+    "legal_name": "Zenith Office Supplies LLC",
+    "trading_name": null,
+    "country": "US",
+    "registration_number": "REG-26967732",
+    "incorporation_date": "2023-11-19",
+    "address": {
+      "line1": "250 Market Street",
+      "city": "Austin",
+      "postal_code": "78701",
+      "country": "US"
+    },
+    "website": "www.zenithoffice.com"
+  },
+  "tax": {
+    "tax_id": "52-7654321",
+    "tax_id_type": "EIN"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "accounts@zenithoffice.com",
+    "phone": "+15125550142"
+  },
+  "bank": {
+    "bank_name": "JPMorgan Chase",
+    "account_holder": "Zenith Office Supplies LLC",
+    "bank_country": "US",
+    "account_number": "000123456789",
+    "routing_number": "021000021"
+  },
+  "documents": [
+    {
+      "doc_type": "W9",
+      "filename": "form_w9_signed.pdf",
+      "extracted": {
+        "name_on_document": "Zenith Office Supplies LLC",
+        "id_number": "52-7654321",
+        "issue_date": "2023-12-09"
+      }
+    },
+    {
+      "doc_type": "BANK_LETTER",
+      "filename": "bank_letter.pdf",
+      "extracted": {
+        "name_on_document": "Zenith Office Supplies LLC",
+        "id_number": "000123456789",
+        "issue_date": "2026-10-24"
+      }
+    }
+  ]
+}

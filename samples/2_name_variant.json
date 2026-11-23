@@ -1,0 +1,53 @@
+{
+  "company": {
+    "legal_name": "Northwind Logistics Solutions Pvt Ltd",
+    "trading_name": null,
+    "country": "IN",
+    "registration_number": "REG-21029978",
+    "incorporation_date": "2022-10-15",
+    "address": {
+      "line1": "Plot 12, MIDC Industrial Area",
+      "city": "Pune",
+      "postal_code": "411019",
+      "country": "IN"
+    },
+    "website": "www.northwindlogistics.in"
+  },
+  "tax": {
+    "tax_id": "27EVTCL2892M1Z8",
+    "tax_id_type": "GSTIN",
+    "pan": "EVTCL2892M"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "accounts@nlspl.in",
+    "phone": "+919812345678"
+  },
+  "bank": {
+    "bank_name": "ICICI Bank",
+    "account_holder": "NLS Pvt Ltd",
+    "bank_country": "IN",
+    "account_number": "649699088982",
+    "ifsc": "ICIC0002345"
+  },
+  "documents": [
+    {
+      "doc_type": "TAX_CERTIFICATE",
+      "filename": "tax_registration_certificate.pdf",
+      "extracted": {
+        "name_on_document": "Northwind Logistics Solutions Pvt Ltd",
+        "id_number": "27EVTCL2892M1Z8",
+        "issue_date": "2022-11-04"
+      }
+    },
+    {
+      "doc_type": "BANK_LETTER",
+      "filename": "bank_letter.pdf",
+      "extracted": {
+        "name_on_document": "NLS Pvt Ltd",
+        "id_number": "649699088982",
+        "issue_date": "2026-10-24"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "company": {
+    "legal_name": "Volgograd Trade Company",
+    "trading_name": null,
+    "country": "GB",
+    "registration_number": "REG-61856390",
+    "incorporation_date": "2024-02-27",
+    "address": {
+      "line1": "14 Clerkenwell Road",
+      "city": "London",
+      "postal_code": "EC1M 5PQ",
+      "country": "GB"
+    },
+    "website": "www.volgogradtrade.co.uk"
+  },
+  "tax": {
+    "tax_id": "GB216463143",
+    "tax_id_type": "VAT"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "accounts@volgogradtrade.co.uk",
+    "phone": "+442071234567"
+  },
+  "bank": {
+    "bank_name": "NatWest",
+    "account_holder": "Volgograd Trade Company",
+    "bank_country": "GB",
+    "iban": "GB32NWBK60161323531318",
+    "swift_bic": "NWBKGB2L"
+  },
+  "documents": [
+    {
+      "doc_type": "TAX_CERTIFICATE",
+      "filename": "tax_registration_certificate.pdf",
+      "extracted": {
+        "name_on_document": "Volgograd Trade Company",
+        "id_number": "GB216463143",
+        "issue_date": "2024-03-18"
+      }
+    },
+    {
+      "doc_type": "BANK_LETTER",
+      "filename": "bank_letter.pdf",
+      "extracted": {
+        "name_on_document": "Volgograd Trade Company",
+        "id_number": "GB32NWBK60161323531318",
+        "issue_date": "2026-10-24"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "company": {
+    "legal_name": "Meridian Precision Components Pvt Ltd",
+    "trading_name": null,
+    "country": "IN",
+    "registration_number": "REG-75366316",
+    "incorporation_date": "2020-11-24",
+    "address": {
+      "line1": "Plot 12, MIDC Industrial Area",
+      "city": "Pune",
+      "postal_code": "411019",
+      "country": "IN"
+    },
+    "website": "www.meridianprecision.in"
+  },
+  "tax": {
+    "tax_id": "27SGRCL7083T1ZC",
+    "tax_id_type": "GSTIN",
+    "pan": "SGRCL7083T"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "accounts@meridianprecision.in",
+    "phone": "+919812345678"
+  },
+  "bank": {
+    "bank_name": "HDFC Bank",
+    "account_holder": "Meridian Precision Components Private Limited",
+    "bank_country": "IN",
+    "account_number": "634735714321",
+    "ifsc": "HDFC0004321"
+  },
+  "documents": [
+    {
+      "doc_type": "TAX_CERTIFICATE",
+      "filename": "tax_registration_certificate.pdf",
+      "extracted": {
+        "name_on_document": "Meridian Precision Components Pvt Ltd",
+        "id_number": "27SGRCL7083T1ZC",
+        "issue_date": "2020-12-14"
+      }
+    },
+    {
+      "doc_type": "BANK_LETTER",
+      "filename": "bank_letter.pdf",
+      "extracted": {
+        "name_on_document": "Meridian Precision Components Private Limited",
+        "id_number": "634735714321",
+        "issue_date": "2026-10-24"
+      }
+    }
+  ]
+}

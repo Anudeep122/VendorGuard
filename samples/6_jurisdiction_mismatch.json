@@ -1,0 +1,52 @@
+{
+  "company": {
+    "legal_name": "Pinecrest Industrial Tools Inc",
+    "trading_name": null,
+    "country": "US",
+    "registration_number": "REG-72245751",
+    "incorporation_date": "2023-01-23",
+    "address": {
+      "line1": "250 Market Street",
+      "city": "Austin",
+      "postal_code": "78701",
+      "country": "US"
+    },
+    "website": "www.pinecrest-tools.com"
+  },
+  "tax": {
+    "tax_id": "GB123456789",
+    "tax_id_type": "VAT"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "accounts@pinecrest-tools.com",
+    "phone": "+15125550142"
+  },
+  "bank": {
+    "bank_name": "Barclays",
+    "account_holder": "Pinecrest Industrial Tools Inc",
+    "bank_country": "GB",
+    "iban": "GB32BARC20040052431876",
+    "swift_bic": "BARCGB22"
+  },
+  "documents": [
+    {
+      "doc_type": "TAX_CERTIFICATE",
+      "filename": "vat_certificate.pdf",
+      "extracted": {
+        "name_on_document": "Pinecrest Industrial Tools Inc",
+        "id_number": "GB123456789",
+        "issue_date": "2026-01-27"
+      }
+    },
+    {
+      "doc_type": "BANK_LETTER",
+      "filename": "bank_letter.pdf",
+      "extracted": {
+        "name_on_document": "Pinecrest Industrial Tools Inc",
+        "id_number": "7375674374",
+        "issue_date": "2026-10-24"
+      }
+    }
+  ]
+}

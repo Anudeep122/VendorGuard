@@ -1,0 +1,52 @@
+{
+  "company": {
+    "legal_name": "Brightwave Analytics GmbH",
+    "trading_name": null,
+    "country": "DE",
+    "registration_number": "REG-65924607",
+    "incorporation_date": "2024-06-06",
+    "address": {
+      "line1": "Industriestrasse 8",
+      "city": "Stuttgart",
+      "postal_code": "70565",
+      "country": "DE"
+    },
+    "website": "www.brightwave-analytics.de"
+  },
+  "tax": {
+    "tax_id": "DE033650202",
+    "tax_id_type": "VAT"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "accounts@brightwave-analytics.de",
+    "phone": "+4971112345678"
+  },
+  "bank": {
+    "bank_name": "Commerzbank",
+    "account_holder": "Markus Vogel",
+    "bank_country": "DE",
+    "iban": "DE62370400440532013001",
+    "swift_bic": "COBADEFF"
+  },
+  "documents": [
+    {
+      "doc_type": "TAX_CERTIFICATE",
+      "filename": "tax_registration_certificate.pdf",
+      "extracted": {
+        "name_on_document": "Brightwave Analytics GmbH",
+        "id_number": "DE033650202",
+        "issue_date": "2024-06-26"
+      }
+    },
+    {
+      "doc_type": "BANK_LETTER",
+      "filename": "bank_letter.pdf",
+      "extracted": {
+        "name_on_document": "Markus Vogel",
+        "id_number": "DE62370400440532013001",
+        "issue_date": "2026-10-24"
+      }
+    }
+  ]
+}

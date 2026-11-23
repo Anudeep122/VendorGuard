@@ -1,0 +1,43 @@
+{
+  "company": {
+    "legal_name": "Harlow & Finch Consulting Ltd",
+    "trading_name": null,
+    "country": "GB",
+    "registration_number": "REG-12984269",
+    "incorporation_date": "2023-08-11",
+    "address": {
+      "line1": "14 Clerkenwell Road",
+      "city": "London",
+      "postal_code": "EC2A 4NE",
+      "country": "GB"
+    },
+    "website": "www.harlowfinch.co.uk"
+  },
+  "tax": {
+    "tax_id": "GB731916751",
+    "tax_id_type": "VAT"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "accounts@harlowfinch.co.uk",
+    "phone": "+442071234567"
+  },
+  "bank": {
+    "bank_name": "NatWest",
+    "account_holder": "Harlow & Finch Consulting Ltd",
+    "bank_country": "GB",
+    "iban": "GB82WEST12345698765432"
+  },
+  "documents": [
+    {
+      "doc_type": "TAX_CERTIFICATE",
+      "filename": "electricity_bill_oct.pdf",
+      "extracted": {
+        "name_on_document": "Harlow & Finch Consulting Ltd",
+        "id_number": "",
+        "issue_date": "2026-10-14",
+        "document_title": "Electricity bill - statement of charges"
+      }
+    }
+  ]
+}

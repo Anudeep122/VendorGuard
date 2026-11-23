@@ -1,0 +1,52 @@
+{
+  "company": {
+    "legal_name": "Sandstone Trading FZE",
+    "trading_name": null,
+    "country": "AE",
+    "registration_number": "REG-17327413",
+    "incorporation_date": "2026-10-13",
+    "address": {
+      "line1": "Unit 204, Jebel Ali Free Zone",
+      "city": "Dubai",
+      "postal_code": "PO Box 51234",
+      "country": "AE"
+    },
+    "website": null
+  },
+  "tax": {
+    "tax_id": "100399674268144",
+    "tax_id_type": "VAT"
+  },
+  "contact": {
+    "name": "Accounts Payable",
+    "email": "sandstone.trading@gmail.com",
+    "phone": "+97141234567"
+  },
+  "bank": {
+    "bank_name": "Emirates NBD",
+    "account_holder": "Sandstone Trading FZE",
+    "bank_country": "AE",
+    "iban": "AE850339045329328235112",
+    "swift_bic": "EBILAEAD"
+  },
+  "documents": [
+    {
+      "doc_type": "TAX_CERTIFICATE",
+      "filename": "tax_registration_certificate.pdf",
+      "extracted": {
+        "name_on_document": "Sandstone Trading FZE",
+        "id_number": "100399674268144",
+        "issue_date": "2026-11-02"
+      }
+    },
+    {
+      "doc_type": "BANK_LETTER",
+      "filename": "bank_letter.pdf",
+      "extracted": {
+        "name_on_document": "Sandstone Trading FZE",
+        "id_number": "AE850339045329328235112",
+        "issue_date": "2026-10-24"
+      }
+    }
+  ]
+}
